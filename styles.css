@@ -69,6 +69,7 @@ h1{
 
 .nav-list :hover{
     background: -webkit-linear-gradient(#FF8EBE,#D8C7FC);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
